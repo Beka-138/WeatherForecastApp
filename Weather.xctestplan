@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "EA51E24B-2FBF-40C9-84BD-0728675D03C6",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Weather.xcodeproj",
+      "identifier" : "602780EA2B8DB5A400179AAF",
+      "name" : "Weather"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
